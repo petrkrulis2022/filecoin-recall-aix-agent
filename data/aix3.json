@@ -1,0 +1,5 @@
+{
+  "AIX": "aix-value",
+  "CPU": "cpu-value",
+  "CoT": "cot-value"
+}
